@@ -46,8 +46,8 @@ This project implements and compares **two powerful deep learning approaches** f
 ## 📂 Project Structure
 
 ```
-📦 project2/
-├── 📓 nlptask (1).ipynb          # Main Jupyter Notebook (training, evaluation, comparison)
+
+├── 📓 Arabic-Sentiment-Analysis.ipynb          # Main Jupyter Notebook (training, evaluation, comparison)
 ├── 📊 AraSenti_all.xlsx          # Training dataset (~15,751 samples)
 ├── 📊 HIAQatar_tweets.xlsx       # Testing dataset (~151 samples)
 └── 📝 README.md                  # This file
@@ -193,7 +193,7 @@ openpyxl
 ### 1. Clone the repository
 ```bash
 git clone <repository-url>
-cd project2
+cd Arabic-Sentiment-Analysis
 ```
 
 ### 2. Install dependencies
@@ -208,7 +208,7 @@ print(torch.cuda.is_available())  # Should be True ✅
 ```
 
 ### 4. Run the notebook 📓
-- Open `nlptask (1).ipynb` in **Jupyter Notebook** or **Kaggle**
+- Open `Arabic-Sentiment-Analysis.ipynb` in **Jupyter Notebook** or **Kaggle**
 - Execute all cells sequentially
 
 > 💡 **Tip:** This project was originally developed and run on **Kaggle** with GPU acceleration. Dataset paths may need to be adjusted if running locally.

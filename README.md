@@ -1,5 +1,4 @@
----
-<![CDATA[<div align="center">
+<div align="center">
 
 # 🇸🇦 Arabic Sentiment Analysis Using Deep Learning 🧠
 
@@ -47,7 +46,6 @@ This project implements and compares **two powerful deep learning approaches** f
 ## 📂 Project Structure
 
 ```
-
 ├── 📓 Arabic-Sentiment-Analysis.ipynb          # Main Jupyter Notebook (training, evaluation, comparison)
 ├── 📊 AraSenti_all.xlsx          # Training dataset (~15,751 samples)
 ├── 📊 HIAQatar_tweets.xlsx       # Testing dataset (~151 samples)
@@ -257,4 +255,3 @@ This project is developed for **academic purposes** as part of the **Natural Lan
 ⭐ **If you found this project helpful, please give it a star!** ⭐
 
 </div>
-]]>
